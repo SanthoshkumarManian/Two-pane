@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">First_project</string>
+    <string name="santhosh">santhosh</string>
+    <string name="prabhaharan">Prabha haran</string>
+    <string name="santhosh_description">Hi this is santhoshkumar pursuing Master of Computer Application.</string>
+    <string name="prabha_description">Here you can manipulate various settings like Brightness, Font Size, Screen Rotation, Color Mode and Wallpaper.</string>
+    <string name="sathish">Sathish</string>
+    <string name="sathish_description">Here you have access to inbuilt File Manager and various options such as Formatting Phone, Making Free Space and in depth storage details.</string>
+</resources>
